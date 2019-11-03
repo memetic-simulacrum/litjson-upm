@@ -1,7 +1,7 @@
 LitJSON for Unity Package Manager (UPM)
 =======================================
 
-A *.Net* library to handle conversions from and to JSON (JavaScript Object Notation) strings, modified for the Unity3D engine's Package Manager format.
+A *.Net* library to handle conversions from and to JSON (JavaScript Object Notation) strings, modified for the Unity3D engine's Package Manager format. The goal of this fork is to create an easily-updatable version of LitJSON which includes various Unity-specific additions / fixes.
 
 > _It's quick and lean, without external dependencies.
 > Just a few classes so easily embeddable in your own code or a very small assembly to ship with your code.
