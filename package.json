@@ -13,7 +13,7 @@
     "serialization",
     "deserialization",
     "save",
-    "load",
+    "load"
   ],
   "category": "Scripting",
   "samples": []
