@@ -8,10 +8,10 @@ A *.Net* library to handle conversions from and to JSON (JavaScript Object Notat
 > The code is highly portable, which in general makes it easy to adapt for new platforms._
 
 ## Deltas from Source
-* Removed all tests, benchmarks, and so on - see the original for these files.
+* Removed all tests, benchmarks, and so on - see the original for these files. I may add these back (with additions) after I've gotten the package where I want it.
 
 ## Requirements
-
+_Included for the relevant Unity .NET targets_
 LitJSON currently targets and supports
 * .NET Standard 2.0
 * .NET Standard 1.5
