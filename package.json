@@ -1,14 +1,19 @@
 {
   "name": "com.unlicensed.litjson",
   "displayName": "LitJSON",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "unity": "2019.1",
   "description": "A modified version of https://github.com/LitJSON/litjson structured for the Unity Package Manager.",
   "keywords": [
     "JSON",
+    "json",
     "litjson",
+    "serialize",
+    "deserialize",
     "serialization",
-    "deserialization"
+    "deserialization",
+    "save",
+    "load",
   ],
   "category": "Scripting",
   "samples": []
